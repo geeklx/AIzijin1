@@ -1,0 +1,6 @@
+{
+  "name": "A股资金流向",
+  "description": "一款用于实时监控与分析A股各行业板块资金流向、大单流入、历史走势及AI智能研报分析的专业金融工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
